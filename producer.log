@@ -1,0 +1,22 @@
+2024-08-02 15:42:55,159 - INFO - root - ProducerClass object created with name <__main__.Producerclass object at 0x000001820FDC7560>.
+2024-08-02 15:43:27,167 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:43:27,168 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:43:27,168 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:43:27,168 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:43:27,168 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:43:27,168 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:43:27,169 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:43:27,174 - INFO - root - Message Produced: <cimpl.Message object at 0x000001820FD5B140>
+2024-08-02 15:48:53,106 - INFO - root - ProducerClass object created with name <__main__.Producerclass object at 0x000002251815FC50>.
+2024-08-02 15:49:29,304 - INFO - root - Message Produced: <built-in method value of cimpl.Message object at 0x000002251811F0C0>
+2024-08-02 15:49:29,305 - INFO - root - Message Produced: <built-in method value of cimpl.Message object at 0x000002251811F0C0>
+2024-08-02 15:49:29,305 - INFO - root - Message Produced: <built-in method value of cimpl.Message object at 0x000002251811F0C0>
+2024-08-02 15:49:29,306 - INFO - root - Message Produced: <built-in method value of cimpl.Message object at 0x000002251811F0C0>
+2024-08-02 15:49:29,306 - INFO - root - Message Produced: <built-in method value of cimpl.Message object at 0x000002251811F0C0>
+2024-08-02 15:49:29,306 - INFO - root - Message Produced: <built-in method value of cimpl.Message object at 0x000002251811F0C0>
+2024-08-02 15:49:29,310 - INFO - root - Message Produced: <built-in method value of cimpl.Message object at 0x000002251811F0C0>
+2024-08-02 15:53:32,410 - INFO - root - ProducerClass object created with name Producer.
+2024-08-02 15:54:04,890 - INFO - root - Message Produced: Once more we test kafka
+2024-08-02 15:54:04,891 - INFO - root - Message Produced: This time we hope log formats well
+2024-08-02 15:54:04,891 - INFO - root - Message Produced: Hehehe i love programming 
+2024-08-02 15:54:04,895 - INFO - root - Message Produced: Once more, have fun
